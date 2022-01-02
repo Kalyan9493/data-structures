@@ -1,7 +1,8 @@
 package datastructures.datastructures.sorting;
 
 import java.util.Arrays;
-
+//Time Complexity is O(n*n)
+//Space Complexity is O(1)
 public class SelectionSort {
 
 	public static void main(String[] args) {
